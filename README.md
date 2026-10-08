@@ -1,1 +1,15 @@
-Gerenciador de Coleção de Jogos (prjGames)Um sistema desktop desenvolvido em Java para organizar e gerenciar sua biblioteca pessoal de jogos de forma visual e prática.Funcionalidades PrincipaisControle de Progresso: Classifique cada título entre "Quero Jogar", "Jogando" ou "Zerado".   Galeria Visual: Faça o upload de imagens e o sistema redimensiona automaticamente as capas dos seus jogos para o formulário.   Ficha Técnica: Registre detalhes como Dispositivo, Gênero, Ano de Lançamento e se possui modo Multiplayer.   Gestão de Dados: Sistema completo de CRUD (Criar, Pesquisar, Editar e Excluir) conectado a um banco de dados.   Relatórios: Visualização em formato de tabela de toda a coleção salva.Tecnologias UtilizadasLinguagem: Java (Interface Gráfica com Java Swing)   Banco de Dados: MySQL (via JDBC Driver)   IDE: Apache NetBeans   
+# Gerenciador de Coleção de Jogos (prjGames)
+
+Um sistema desktop desenvolvido em Java para organizar e gerenciar sua biblioteca pessoal de jogos de forma visual e prática.
+
+### Funcionalidades Principais
+* **Controle de Progresso:** Classifique cada título entre "Quero Jogar", "Jogando" ou "Zerado".
+* **Galeria Visual:** Faça o upload de imagens e o sistema redimensiona automaticamente as capas dos seus jogos para o formulário.
+* **Ficha Técnica:** Registre detalhes como Dispositivo, Gênero, Ano de Lançamento e se possui modo Multiplayer.
+* **Gestão de Dados:** Sistema completo de CRUD (Criar, Pesquisar, Editar e Excluir) conectado a um banco de dados.
+* **Relatórios:** Visualização em formato de tabela de toda a coleção salva.
+
+### Tecnologias Utilizadas
+* **Linguagem:** Java (Interface Gráfica com Java Swing)
+* **Banco de Dados:** MySQL (via JDBC Driver)
+* **IDE:** Apache NetBeans
