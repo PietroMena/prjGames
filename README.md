@@ -1,4 +1,4 @@
-# prjGames - Gerenciador de Coleção de Jogos
+Gerenciador de Jogos
 
 Sistema desktop desenvolvido em Java Swing para organização e gerenciamento de coleções de jogos.
 
@@ -22,4 +22,4 @@ Sistema desktop desenvolvido em Java Swing para organização e gerenciamento de
 1. Abra o painel do XAMPP e ative o **MySQL**.
 2. No phpMyAdmin (`http://localhost/phpmyadmin`), crie a base de dados importando o arquivo `prjGames.sql`.
 3. Abra a pasta do projeto no NetBeans.
-4. Verifique as dependências das bibliotecas (driver MySQL) e execute o projeto (`Run` ou `Shift + F6`).
+4. Verifique as dependências das bibliotecas (driver MySQL) e execute o projeto.
